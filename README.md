@@ -29,10 +29,10 @@ Analogously, to extract all the temperature data for the world table, I simply w
 
 Similarly, as in the case above, I exported the results to CSV and downloaded for analysing and creating a line chart.
 
-#### 2. Opening up the CSV and creating line charts.
+#### Opening up the CSV and creating line charts.
 I opened the CSV files using Google sheets. Before plotting the line charts, I calculated the 10-year moving average in order to smooth out the lines and making trends more observable for each dataset that was extracted earlier. To calculate the moving average, I simply used the ready-made 'AVERAGE' function on Google Sheets. Initially, I chose AVERAGE(B2:B11) and then filled the remaining fields automatically. Next, I created line charts for each global and city level dataset putting 'year' on the horizontal axis and moving average temperature on the vertical axis. Then I put these two datasets together in order to create a general line chart that compares my city’s temperatures with the global temperatures. The correspoding line charts are on the following pages. 
 
-#### 3. Observations.
+#### Observations.
 Looking at the line chart that compares my city’s temperatures with the global one, I made the following observations about the similarities and differences between the world averages and my city’s averages, as well as overall trends:
 
 * The average temperature in my city has always been higher than the world temperature for the entire period.
