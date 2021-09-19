@@ -4,8 +4,8 @@
 ##### 02.09.2021
 
 * [Extracting the data from the database using SQL](#Extracting-the-data-from-the-database-using-SQL)
-* [Opening up the CSV and creating line charts](Opening up the CSV and creating line charts)
-* [Observations](Observations)
+* [Opening up the CSV and creating line charts](#Opening-up-the-CSV-and-creating-line-charts)
+* [Observations](#Observations)
 
 #### 1. Extracting the data from the database using SQL. 
 There was a workspace in the section that was connected to a database. I needed to export the temperature data for the world as well as for the closest big city to where I live. I found a list of cities and countries in the city_list table.
