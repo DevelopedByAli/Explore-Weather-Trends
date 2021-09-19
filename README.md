@@ -3,8 +3,7 @@
 ### Created by Akbarali Mukhammadiev
 ##### 02.09.2021
 
-
-* [Extracting the data from the database using SQL](Extracting the data from the database using SQL)
+* [Extracting](Extracting the data from the database using SQL)
 * [Opening up the CSV and creating line charts](Opening up the CSV and creating line charts)
 * [Observations](Observations)
 
